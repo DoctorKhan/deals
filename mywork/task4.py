@@ -7,7 +7,7 @@ Ref: data/coupon_clickstream.csv
 This dataset contains 50 observations and one target variable.
 What we are trying to predict here is that given these 50 metrics how likely is a user to click on a coupon.
 
-Your task is the following:
+The task is the following:
 
 Perform exploratory analysis on the dataset to answer following questions:
 
